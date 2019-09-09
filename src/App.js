@@ -2,6 +2,8 @@ import React, { Component} from "react";
 import {hot} from "react-hot-loader";
 import "./App.css";
 import Header from "./components/header";
+import Footer from "./components/footer";
+import Content from "./components/content";
 
 
 class App extends Component{
@@ -13,9 +15,8 @@ class App extends Component{
     return(
       <React.Fragment>
         <Header/>
-      <div className="container-fluid App">
-        body
-      </div>
+      <Content />
+      <Footer />
       </React.Fragment>
     );
   }
