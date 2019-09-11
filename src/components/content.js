@@ -16,7 +16,6 @@ class Content extends Component {
         <div className="content">
           <Slider />
           <ServicesListing />
-          <div className="clear"></div>
           <AboutUs />
           <Statistics/>
           <OurTeam/>
