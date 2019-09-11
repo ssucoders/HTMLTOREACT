@@ -7,9 +7,9 @@ class ServicesListing extends Component {
     }
     render() {
         let services = [
-            {"title":"test1", "subtitle": "hello", "image": "image.jpg"},
-            {"title":"test2", "subtitle": "hello", "image": "IMG-20180915-WA0014.jpg"},
-            {"title":"test3", "subtitle": "hello", "image": "IMG-20181003-WA0022.jpg"}
+            {"title":"Financial Planning", "subtitle": "Best Analysis", "image": "image.jpg",},
+            {"title":"Corporate Services", "subtitle": "Analysis Finance", "image": "IMG-20180915-WA0014.jpg"},
+            {"title":"Busniess Consulting", "subtitle": "Free Consulting", "image": "IMG-20181003-WA0022.jpg"}
         ]
         return (
             <React.Fragment>
