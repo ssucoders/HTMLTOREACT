@@ -11,7 +11,7 @@ header { padding: 15px 0px;}
 #statistics p , h4{margin:0px;color:white;font-weight: bold;}
 #statistics h4{font-size:30px;}
 #statistics ul{list-style-type: none;}
-#statistics li{display:inline-block;padding:20px;margin-right: 50px;} 
+#statistics li{display:inline-block;margin-right: 50px;} 
 .team h2{text-align: center;font-size: 35px;margin-top: 100px;margin-bottom: 20px;}
 #ourTeam {list-style-type: none;}
 #ourTeam li{display: inline-block;padding: 20px;margin: 10px;border: 1px solid #e9e9e9;}
